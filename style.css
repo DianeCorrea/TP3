@@ -1,0 +1,24 @@
+#titulo{
+    color: rgb(1, 1, 94);
+}
+p.especial{
+    color: rgb(138, 2, 2);
+}
+p.texto{
+    color: blueviolet;
+}
+div p {
+    color: coral;
+}
+div h2 {
+    color: cornflowerblue;
+}
+div h3 {
+    color: darkgreen;
+}
+
+*{
+    font-size: 24px;
+    color: black;
+}
+/*esto es una prueba que hizo Dianela Correa de la comision c47*/
